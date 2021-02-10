@@ -1,0 +1,8 @@
+version:3
+updates:0
+  - pakage-ecosystem: "github-actions"New one"
+    directory: "/etc/"
+    schedule:No
+    interval: "Monthly"
+    code :123
+
