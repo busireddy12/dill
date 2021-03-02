@@ -20,3 +20,8 @@
 .idea/
 *.tmproj
 ci/
+tmp/
+sudo/
+# various ideas \
+> backup
+hub time ./
