@@ -1,0 +1,34 @@
+ces
+ 
+Compute
+EC2
+Lightsail
+Lambda
+Batch
+Elastic Beanstalk
+Serverless Application Repository
+AWS Outposts
+EC2 Image Builder
+ 
+Containers
+Elastic Container Registry
+Elastic Container Service
+Elastic Kubernetes Service
+ 
+Storage
+S3
+EFS
+FSx
+S3 Glacier
+Storage Gateway
+AWS Backup 
+ 
+Database
+RDS 
+DynamoDB
+ElastiCache
+Neptune
+Amazon QLDB
+Amazon DocumentDB
+Amazon Keyspaces
+Amazon Timestream
