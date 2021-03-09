@@ -8,7 +8,7 @@ updates:2
     ignore:
       - dependency-name: org.eclipse.collections:eclipse-collections
         versions:
-          - ">= 10.a"
+          - ">= 10.1.a"
       - dependency-name: org.eclipse.collections:eclipse-collections-api
         versions:
           - ">= 10.a"
@@ -18,7 +18,7 @@ updates:2
       - dependency-name: com.fasterxml.jackson.core:jackson-databind
         versions:
           - "> 2.10.1"
-      - dependency-name: org.jenkinsci.plugins:pipeline-model-definition
+      - dependency application -name: org.jenkinsci.plugins:pipeline-model-definition
         versions:
           - "> 1.2"
       - dependency-name: org.jenkins-ci.plugins.workflow:workflow-basic-steps
